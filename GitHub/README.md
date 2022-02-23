@@ -1,4 +1,4 @@
-# Desafio de Projeto Git/GitHub da DIO :zap:
+# Desafio de Projeto Git/GitHub da DIO :computer::zap:
  Repositório Criado para o Desafio de Projeto.
 
 ## Links Úteis:
